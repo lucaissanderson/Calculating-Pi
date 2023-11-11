@@ -1,4 +1,4 @@
-# Assignment 1: Little Slice of π
+# Little Slice of π
 
 ## Files:
 
